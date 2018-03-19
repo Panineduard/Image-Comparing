@@ -1,3 +1,3 @@
 # Image-Comparing
 It is a Java app based on Swing UI for compare two images
-<img src="your_relative_path_here_number_2_large_name" width="350"/>
+<span class="border-wrap"><img src="/Panineduard/Image-Comparing/blob/master/img/3.jpg?raw=true" alt="3.jpg"></span>
