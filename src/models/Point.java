@@ -1,4 +1,4 @@
-package ui;
+package models;
 
 /**
  * Created by Panin Eduard on 15.09.2016.
@@ -33,7 +33,5 @@ public class Point {
         int dy = this.y - p.getY();
         return Math.sqrt(dx*dx + dy*dy);
     }
-    public String toString(){return "(x="+x+";y="+y+")";}
-
-
+    public String toString(){return "(x = " + x + " ; y = " + y + " )";}
 }
